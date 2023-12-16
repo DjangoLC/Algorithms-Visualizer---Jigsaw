@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JigsawPuzzle</string>
+
+    <string name="header_title">Header</string>
+    <string name="footer_title">Footer</string>
+
+</resources>
